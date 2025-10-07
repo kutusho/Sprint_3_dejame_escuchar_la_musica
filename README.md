@@ -32,4 +32,3 @@ Identificar patrones y comportamientos de las categorías de contenido, regiones
 - **Análisis:** EDA, KPIs, análisis temporal y geográfico  
 - **Datos:** `trending_by_time.csv`
 
-## 🧩 Estructura del proyecto
